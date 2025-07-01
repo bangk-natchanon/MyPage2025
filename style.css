@@ -41,3 +41,10 @@ img {
  height: 400px;
  border-radius: 50%;
 }
+
+hr {
+    background-color: #3524ff;
+    border-style : none;
+    height : 2px;
+    weight : 30%;
+}
